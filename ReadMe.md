@@ -10,7 +10,7 @@ We have some customer records in a text file (customers.txt) -- one customer per
 
 # Setup
 
-  - 1-install node v14
+  - Install node v14
   - Install npm version 6.14.10
   - Run npm install in the project directory
 
