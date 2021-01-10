@@ -1,0 +1,10 @@
+{
+    "scripts": {
+        "test": "mocha",
+        "launch": "node main.js"
+    },
+    "dependencies": {
+        "mocha": "^8.2.1",
+        "xmlhttprequest": "^1.8.0"
+    }
+}
